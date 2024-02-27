@@ -1,0 +1,22 @@
+body {
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.game-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.scoreboard {
+    text-align: center;
+    margin-top: 20px;
+}
